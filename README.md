@@ -8,6 +8,11 @@ This repository contains a comprehensive analysis of butterfly species classific
 Butterfly species classification is a challenging task due to the subtle visual differences between species. This project employs three popular neural network architectures—ResNet50, DenseNet121, and MobileNetV3Small—to tackle this classification problem. The goal is to analyze their performance, identify areas for improvement, and suggest enhancements.
 
 ## Contents
+#### Attached files
+1. butterflies_imagesprep,ipynb : Python notebook consisting the implementation during the process of web crwaling a total of 6500 images for 10 classes of butterflies subspecies.
+2. butterflies_classification.ipynb: Python notebook consisting the process of training and evaluating the three models.
+
+  
 * Confusion Matrix Analysis:
 
 Provides a visual summary of the the three models.
